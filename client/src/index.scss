@@ -11,6 +11,14 @@ $app-background: #2c2c2eff;
   box-sizing: border-box;
 }
 
-#App {
-  
+.queryLine {
+  display: block;
+}
+
+#dropdown-menu {
+  display: inline-block;
+}
+
+.dropdownItem {
+  display: inline-block;
 }
